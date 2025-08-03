@@ -1,0 +1,18 @@
+{
+  "happy": [
+    "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
+    "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+  ],
+  "sad": [
+    "https://www.youtube.com/watch?v=RgKAFK5djSk",
+    "https://www.youtube.com/watch?v=JkK8g6FMEXE"
+  ],
+  "angry": [
+    "https://www.youtube.com/watch?v=fLexgOxsZu0",
+    "https://www.youtube.com/watch?v=9vMh9f41pqE"
+  ],
+  "neutral": [
+    "https://www.youtube.com/watch?v=2vjPBrBU-TM",
+    "https://www.youtube.com/watch?v=ktvTqknDobU"
+  ]
+}
